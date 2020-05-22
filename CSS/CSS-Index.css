@@ -1,0 +1,194 @@
+ body{
+    background: #343d46;
+}
+
+.foto1 img{ padding: 5px; margin: 10px; border: 2px solid black; float: left; width: 250px; }
+
+.sociales{
+    float: right;
+}
+.sociales li{
+    display: inline-block;
+}
+.sociales a{
+    padding: 5px;
+}
+
+.box{
+    display: inline-block;
+}
+
+.container-1 input#search{
+    width: 800px;
+    height: 40px;
+    background: #ebecf0;
+    border: none;
+    font-size: 10pt;
+    float: none;
+    color: #63717f;
+    padding-left: 15px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+}
+
+ ul.navegador{
+     margin:10px;
+     padding:130px ;
+ }
+
+ ul.navegador li{
+     display:inline-block;
+     padding:0 20px;
+     background-color: #fffbeb;
+     padding: 5px 30px;
+     -webkit-border-radius: 5px;
+     -moz-border-radius: 5px;
+     border-radius: 2px;
+ }
+
+ ul.navegador a:hover{
+     background-color: #ebecf0;
+     color: #AA5500;
+ }
+
+ ul.nav{
+     margin:0px;
+     padding:1px ;
+ }
+
+ ul.nav li{
+     display:inline-block;
+     background-color: #fffbeb;
+     padding: 5px 30px;
+     -webkit-border-radius: 5px;
+     -moz-border-radius: 5px;
+     border-radius: 2px;
+ }
+
+ ul.nav a:hover{
+     background-color: #ebecf0;
+     color: #AA5500;
+ }
+
+ #contenedor { margin: 0 auto; width: 1500px;  border: 1px groove #993300;
+     position: relative; height: 600px; }
+ #cabecera { height: 300px; background-color: #1A175C;; }
+ /*menu*/
+ #txt{ position: absolute; top: 950px; left: 500px; width: 500px; height: 200px;
+      margin: 10px; padding: 1px ; }
+
+ #menu {  position: absolute; top: 1200px; left: 10px; width: 1500px; height: 340px;
+     background-color:#596870 ;}
+
+ #pot1 {position: absolute; top: 30px; left: 100px;}
+ #port1 span {margin: 0 auto; width: 120px;  border: 2px groove #0075ea;
+     position: absolute; height: 20px; top: 220px;left: 40px;}
+
+ #pot2{position: absolute; top: 30px; left: 650px;}
+ #pot2 span {margin: 0 auto; width: 120px;  border: 2px groove #0075ea;
+     position: absolute; height: 20px; top: 220px;left: 40px;}
+ #pot3{position: absolute; top: 30px; left: 1200px;}
+ #pot3 span {margin: 0 auto; width: 120px;  border: 2px groove #0075ea;
+     position: absolute; height: 20px; top: 220px;left: 50px;}
+
+.foto2 {
+    padding: 0em;
+    margin: 0em 0 2em 12em;
+    width: 500px;
+}
+ .foto2 img {
+     position: absolute;
+     top:  250px;
+     left: 800px;
+ }
+
+
+ div.foto2 p{
+     font-size:x-large;
+     color: #8A9FFF;
+ }
+
+ .derecha   { float: right;border: 1px solid #CCC; background-color: #E0E0E0;}
+ .izquierda { float: left;border: 1px solid #CCC;background-color: #E0E0E0;}
+
+ div.paginacion {
+     border: 1px solid #CCC;
+     background-color: #D2D4FF;
+     padding: 70px;
+     margin-top: 5%;
+
+ }
+
+ div.paginacion1 samp{
+     font-size:x-large;
+     color: #8A9FFF;
+ }
+
+ div.paginacion img{
+     position: relative;
+     left: 50px;
+     float: left;
+     width: 200px;
+     margin: 10px;
+     border: 1px solid black;
+
+
+ }
+
+ .centro {
+     font-size:x-large;
+     margin-left: 500px;
+     padding: 1px;
+     border: 1px solid #4D0E01;
+     background-color: #FF423D;
+ }
+ div.foto3 img{
+     position: absolute;
+     top:  890px;
+     left: 20px;
+ }
+
+ div.rede2 img{
+     position: absolute;
+     top:  1550px;
+     left: 50px;
+
+ }
+
+ div.rede3 img{
+     position: absolute;
+     top:  1550px;
+     left: 125px;
+
+ }
+
+ div.foto4 img{
+     position: absolute;
+     top:  1600px;
+     left: 15px;
+ }
+
+ div.foto4 footer{
+     position: absolute;
+     top:  1820px;
+     left: 15px;
+
+ }
+
+
+ #contenedor2 { margin: 0 auto; width: 200px;  border: 2px groove #0075ea;
+     position: relative; height: 140px; top: 350px; }
+ #contenedor2 .palabra {text-align: left; float: left; width: 70%; }
+ #contenedor2 .palabra > span { text-decoration: underline; }
+
+
+ #contenedor3 { position: absolute; top: 1580px; left: 1200px; width:220px; height: 120px;
+     background-color: #4CA387; margin: 10px; padding: 10px ;  }
+ #contenedor2 .palabra {text-align: left; float: left; width: 70%; }
+ #contenedor2 .palabra > span { text-decoration: underline; }
+
+
+
+
+
